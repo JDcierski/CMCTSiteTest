@@ -1,18 +1,90 @@
 [
   {
+    "name": "Spicy Toucan",
+    "slug": "spicy-toucan",
+    "weight_class": "30 lb",
+    "cover_image": "bots/spicy-toucan/cover.jpg",
+    "page": "bots/spicy-toucan/",
+    "sort_order": 1
+  },
+  {
+    "name": "Tartarus",
+    "slug": "tartarus",
+    "weight_class": "12 lb",
+    "cover_image": "bots/tartarus/cover.jpg",
+    "page": "bots/tartarus/",
+    "sort_order": 2
+  },
+  {
     "name": "Lasagna",
     "slug": "lasagna",
     "weight_class": "12 lb",
     "cover_image": "bots/lasagna/cover.jpg",
     "page": "bots/lasagna/",
-    "sort_order": 1
+    "sort_order": 3
   },
   {
-    "name": "Bot 02",
-    "slug": "bot-02",
+    "name": "Hungry & Focused",
+    "slug": "hungry-and-focused",
     "weight_class": "3 lb",
-    "cover_image": "bots/bot-02/cover.jpg",
-    "page": "bots/bot-02/",
-    "sort_order": 2
+    "cover_image": "bots/hungry-and-focused/cover.jpg",
+    "page": "bots/hungry-and-focused/",
+    "sort_order": 4
+  },
+  {
+    "name": "Chinchilla",
+    "slug": "chinchilla",
+    "weight_class": "3 lb",
+    "cover_image": "bots/chinchilla/cover.jpg",
+    "page": "bots/chinchilla/",
+    "sort_order": 5
+  },
+  {
+    "name": "Carnage Asada",
+    "slug": "carnage-asada",
+    "weight_class": "3 lb",
+    "cover_image": "bots/carnage-asada/cover.jpg",
+    "page": "bots/carnage-asada/",
+    "sort_order": 6
+  },
+  {
+    "name": "Drum Defender",
+    "slug": "drum-defender",
+    "weight_class": "3 lb",
+    "cover_image": "bots/drum-defender/cover.jpg",
+    "page": "bots/drum-defender/",
+    "sort_order": 7
+  },
+  {
+    "name": "Future Gadget 67",
+    "slug": "future-gadget-67",
+    "weight_class": "3 lb",
+    "cover_image": "bots/future-gadget-67/cover.jpg",
+    "page": "bots/future-gadget-67/",
+    "sort_order": 8
+  },
+  {
+    "name": "Torcher",
+    "slug": "torcher",
+    "weight_class": "3 lb",
+    "cover_image": "bots/torcher/cover.jpg",
+    "page": "bots/torcher/",
+    "sort_order": 9
+  },
+  {
+    "name": "Sassy Chupacabra",
+    "slug": "sassy-chupacabra",
+    "weight_class": "3 lb",
+    "cover_image": "bots/sassy-chupacabra/cover.jpg",
+    "page": "bots/sassy-chupacabra/",
+    "sort_order": 10
+  },
+  {
+    "name": "Master Wu",
+    "slug": "master-wu",
+    "weight_class": "3 lb",
+    "cover_image": "bots/master-wu/cover.jpg",
+    "page": "bots/master-wu/",
+    "sort_order": 11
   }
 ]
