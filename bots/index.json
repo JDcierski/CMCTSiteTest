@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lasagna",
+    "slug": "lasagna",
+    "weight_class": "12 lb",
+    "cover_image": "bots/lasagna/cover.jpg",
+    "page": "bots/lasagna/",
+    "sort_order": 1
+  },
+  {
+    "name": "Bot 02",
+    "slug": "bot-02",
+    "weight_class": "3 lb",
+    "cover_image": "bots/bot-02/cover.jpg",
+    "page": "bots/bot-02/",
+    "sort_order": 2
+  }
+]
