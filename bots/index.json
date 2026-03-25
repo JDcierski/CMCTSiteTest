@@ -3,7 +3,7 @@
     "name": "Spicy Toucan",
     "slug": "spicy-toucan",
     "weight_class": "30 lb",
-    "cover_image": "bots/spicy-toucan/cover.jpg",
+    "cover_image": "bots/spicy-toucan/cover.png",
     "page": "bots/spicy-toucan/",
     "sort_order": 1
   },
@@ -11,7 +11,7 @@
     "name": "Tartarus",
     "slug": "tartarus",
     "weight_class": "12 lb",
-    "cover_image": "bots/tartarus/cover.jpg",
+    "cover_image": "bots/tartarus/cover.png",
     "page": "bots/tartarus/",
     "sort_order": 2
   },
@@ -19,15 +19,15 @@
     "name": "Lasagna",
     "slug": "lasagna",
     "weight_class": "12 lb",
-    "cover_image": "bots/lasagna/cover.jpg",
+    "cover_image": "bots/lasagna/cover.png",
     "page": "bots/lasagna/",
     "sort_order": 3
   },
   {
     "name": "Hungry & Focused",
     "slug": "hungry-and-focused",
-    "weight_class": "3 lb",
-    "cover_image": "bots/hungry-and-focused/cover.jpg",
+    "weight_class": "12 lb",
+    "cover_image": "bots/hungry-and-focused/cover.png",
     "page": "bots/hungry-and-focused/",
     "sort_order": 4
   },
@@ -35,7 +35,7 @@
     "name": "Chinchilla",
     "slug": "chinchilla",
     "weight_class": "3 lb",
-    "cover_image": "bots/chinchilla/cover.jpg",
+    "cover_image": "bots/chinchilla/cover.png",
     "page": "bots/chinchilla/",
     "sort_order": 5
   },
@@ -43,7 +43,7 @@
     "name": "Carnage Asada",
     "slug": "carnage-asada",
     "weight_class": "3 lb",
-    "cover_image": "bots/carnage-asada/cover.jpg",
+    "cover_image": "bots/carnage-asada/cover.png",
     "page": "bots/carnage-asada/",
     "sort_order": 6
   },
@@ -51,7 +51,7 @@
     "name": "Drum Defender",
     "slug": "drum-defender",
     "weight_class": "3 lb",
-    "cover_image": "bots/drum-defender/cover.jpg",
+    "cover_image": "bots/drum-defender/cover.png",
     "page": "bots/drum-defender/",
     "sort_order": 7
   },
@@ -59,7 +59,7 @@
     "name": "Future Gadget 67",
     "slug": "future-gadget-67",
     "weight_class": "3 lb",
-    "cover_image": "bots/future-gadget-67/cover.jpg",
+    "cover_image": "bots/future-gadget-67/cover.png",
     "page": "bots/future-gadget-67/",
     "sort_order": 8
   },
@@ -67,7 +67,7 @@
     "name": "Torcher",
     "slug": "torcher",
     "weight_class": "3 lb",
-    "cover_image": "bots/torcher/cover.jpg",
+    "cover_image": "bots/torcher/cover.png",
     "page": "bots/torcher/",
     "sort_order": 9
   },
@@ -75,7 +75,7 @@
     "name": "Sassy Chupacabra",
     "slug": "sassy-chupacabra",
     "weight_class": "3 lb",
-    "cover_image": "bots/sassy-chupacabra/cover.jpg",
+    "cover_image": "bots/sassy-chupacabra/cover.png",
     "page": "bots/sassy-chupacabra/",
     "sort_order": 10
   },
@@ -83,7 +83,7 @@
     "name": "Master Wu",
     "slug": "master-wu",
     "weight_class": "3 lb",
-    "cover_image": "bots/master-wu/cover.jpg",
+    "cover_image": "bots/master-wu/cover.png",
     "page": "bots/master-wu/",
     "sort_order": 11
   }
